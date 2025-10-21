@@ -1,0 +1,4 @@
+baseURL = 'https://blogcuatruc.github.io'
+languageCode = 'en-us'
+title = 'Learning Java & JavaScript with me'
+theme = 'hextra'
