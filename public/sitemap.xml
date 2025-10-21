@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/blogcuatruc.github.io/posts/first-post/</loc>
-    <lastmod>2025-10-19T16:34:43+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogcuatruc.github.io/</loc>
-    <lastmod>2025-10-19T16:34:43+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogcuatruc.github.io/posts/</loc>
-    <lastmod>2024-06-15T00:00:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogcuatruc.github.io/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blogcuatruc.github.io/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://ebecuaaii.github.io/blogcuatruc.github.io/</loc><lastmod>2025-10-19T16:34:43+07:00</lastmod></url><url><loc>https://ebecuaaii.github.io/blogcuatruc.github.io/posts/</loc><lastmod>2024-06-15T00:00:00+07:00</lastmod></url><url><loc>https://ebecuaaii.github.io/blogcuatruc.github.io/categories/</loc></url><url><loc>https://ebecuaaii.github.io/blogcuatruc.github.io/tags/</loc></url></urlset>
