@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning Java &amp; JavaScript with me – Profile Cá Nhân</title>
-    <link>https://ebecuaaii.github.io/blogcuatruc.github.io/posts/</link>
+    <link>http://localhost:1313/blogcuatruc.github.io/posts/</link>
     <description>Recent content in Profile Cá Nhân on Learning Java &amp; JavaScript with me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0700</lastBuildDate>
     
-	  <atom:link href="https://ebecuaaii.github.io/blogcuatruc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/blogcuatruc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
       

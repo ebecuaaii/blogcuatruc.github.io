@@ -1,0 +1,176 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Java &amp; JavaScript with me – Lập Trình Hướng Đối Tượng</title>
+    <link>http://localhost:1313/blogcuatruc.github.io/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+    <description>Recent content in Lập Trình Hướng Đối Tượng on Learning Java &amp; JavaScript with me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/blogcuatruc.github.io/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Tổng quan về ngôn ngữ lập trình Java</title>
+      <link>http://localhost:1313/blogcuatruc.github.io/blog/bai-1-tong-quan-ve-java/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogcuatruc.github.io/blog/bai-1-tong-quan-ve-java/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Giới thiệu&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;giới-thiệu&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gi%e1%bb%9bi-thi%e1%bb%87u&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Java&lt;/strong&gt; là một trong những ngôn ngữ lập trình lâu đời và phổ biến nhất trong lĩnh vực phát triển phần mềm.&lt;br&gt;
+Ra đời năm &lt;strong&gt;1995&lt;/strong&gt; bởi &lt;em&gt;James Gosling&lt;/em&gt; tại Sun Microsystems, Java được thiết kế với phương châm &lt;strong&gt;&amp;ldquo;Write once, run anywhere&amp;rdquo; (Viết một lần, chạy mọi nơi)&lt;/strong&gt;.&lt;br&gt;
+Điều này có nghĩa là chương trình viết bằng Java có thể chạy trên bất kỳ nền tảng nào có cài đặt &lt;strong&gt;Java Virtual Machine (JVM)&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Đặc điểm nổi bật của Java&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;đặc-điểm-nổi-bật-của-java&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%c4%91%e1%ba%b7c-%c4%91i%e1%bb%83m-n%e1%bb%95i-b%e1%ba%adt-c%e1%bb%a7a-java&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Đặc điểm&lt;/th&gt;
+          &lt;th&gt;Mô tả&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Đa nền tảng&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Chạy được trên nhiều hệ điều hành (Windows, macOS, Linux, Android, v.v.)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Hướng đối tượng&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Mọi thứ trong Java đều là đối tượng — giúp quản lý và tái sử dụng mã hiệu quả&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Bảo mật cao&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Có lớp kiểm soát truy cập mạnh và cơ chế sandbox để ngăn mã độc&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Thư viện phong phú&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Cung cấp hàng ngàn thư viện hỗ trợ mạng, giao diện, cơ sở dữ liệu, web, v.v.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Hiệu suất ổn định&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;JVM tối ưu hiệu năng qua JIT Compiler&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;Kiến trúc của Java&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;kiến-trúc-của-java&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ki%e1%ba%bfn-tr%c3%bac-c%e1%bb%a7a-java&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Khi bạn chạy một chương trình Java, quá trình diễn ra như sau:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Mã nguồn (.java)&lt;/strong&gt; được biên dịch thành &lt;strong&gt;bytecode (.class)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JVM&lt;/strong&gt; (Java Virtual Machine) đọc bytecode và thực thi trên máy thật.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;📊 &lt;strong&gt;Sơ đồ tổng quát:&lt;/strong&gt;
+&lt;img src=&#34;http://localhost:1313/blogcuatruc.github.io/images/java/java-architecture.png&#34; alt=&#34;Sơ đồ minh họa cách hoạt động của JVM&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Ví dụ đầu tiên với Java&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ví-dụ-đầu-tiên-với-java&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#v%c3%ad-d%e1%bb%a5-%c4%91%e1%ba%a7u-ti%c3%aan-v%e1%bb%9bi-java&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Cùng mình viết chương trình kinh điển “Hello, World!” trong Java nha:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Xin chào, Java!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Lưu ý :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tên file phải là HelloWorld.java (trùng với tên class public).&lt;/li&gt;
+&lt;li&gt;Cần cài JDK và thêm javac/java vào PATH.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cách biên dịch và chạy (terminal trên Windows / Linux / macOS):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Biên dịch:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;javac HelloWorld.java&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Chạy:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;java HelloWorld&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Kết quả mong đợi:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Xin chào, Java!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Nếu gặp lỗi &amp;ldquo;javac: command not found&amp;rdquo; hoặc tương tự, cài JDK (ví dụ OpenJDK) và thiết lập PATH / JAVA_HOME.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;Giải thích về cú pháp sử dụng:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;giải-thích-về-cú-pháp-sử-dụng&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#gi%e1%ba%a3i-th%c3%adch-v%e1%bb%81-c%c3%ba-ph%c3%a1p-s%e1%bb%ad-d%e1%bb%a5ng&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;public class HelloWorld&lt;/code&gt;: khai báo một lớp công khai tên là &lt;code&gt;HelloWorld&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;public static void main(String[] args)&lt;/code&gt;: phương thức chính — điểm bắt đầu khi chương trình chạy.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;System.out.println(...)&lt;/code&gt;: in ra dòng chữ lên màn hình.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ứng dụng thực tế của Java&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ứng-dụng-thực-tế-của-java&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e1%bb%a9ng-d%e1%bb%a5ng-th%e1%bb%b1c-t%e1%ba%bf-c%e1%bb%a7a-java&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Ứng dụng doanh nghiệp (Enterprise Java)&lt;/li&gt;
+&lt;li&gt;Ứng dụng Android (Android SDK)&lt;/li&gt;
+&lt;li&gt;Ứng dụng web (Spring Boot, JSP, Servlets)&lt;/li&gt;
+&lt;li&gt;Điện toán đám mây (AWS, Azure)&lt;/li&gt;
+&lt;li&gt;Hệ thống nhúng, phần mềm máy chủ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Kết luận&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;kết-luận&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#k%e1%ba%bft-lu%e1%ba%adn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Java vẫn giữ vị thế quan trọng nhờ tính ổn định, bảo mật và cộng đồng lớn mạnh.&lt;/p&gt;
+&lt;h2&gt;Trong các bài tiếp theo&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;trong-các-bài-tiếp-theo&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#trong-c%c3%a1c-b%c3%a0i-ti%e1%ba%bfp-theo&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Cấu trúc chương trình Java&lt;/li&gt;
+&lt;li&gt;Lập trình hướng đối tượng (OOP)&lt;/li&gt;
+&lt;li&gt;Kỹ thuật Java trong lập trình mạng&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Câu hỏi gợi mở&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;câu-hỏi-gợi-mở&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c%c3%a2u-h%e1%bb%8fi-g%e1%bb%a3i-m%e1%bb%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Bạn đã từng viết chương trình đầu tiên bằng Java chưa? Nếu chưa, hãy thử ví dụ “Hello World” phía trên nhé!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;📚 &lt;strong&gt;Tham khảo thêm&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.oracle.com/java/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trang chủ Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.oracle.com/en/java/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tài liệu chính thức của Oracle về Java SE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
