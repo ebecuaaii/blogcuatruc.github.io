@@ -1,0 +1,140 @@
+        Blog lập trình – Learning Java & JavaScript with me                
+
+  [![Logo](/blogcuatruc.github.io/images/logo.svg) ![Dark Logo](/blogcuatruc.github.io/images/logo.svg) Learning Java & JavaScript with me](/blogcuatruc.github.io/) [Home](/blogcuatruc.github.io/) [Blog](/blogcuatruc.github.io/blog/)
+
+ CTRL K
+
+*   [Blog lập trình](/blogcuatruc.github.io/blog/)
+    
+    *   [📚 Tất cả bài viết](#-t%e1%ba%a5t-c%e1%ba%a3-b%c3%a0i-vi%e1%ba%bft)
+    
+    *   [DOM và Event trong JavaScript – Khi trang web biết ‘phản hồi’ người dùng](/blogcuatruc.github.io/blog/bai-8-dom-va-su-kien/)
+    *   [JavaScript là gì? Cách nó làm cho trang web trở nên sống động](/blogcuatruc.github.io/blog/bai-7-gioi-thieu-javascript/)
+    *   [Kết nối Java với MySQL: Hướng dẫn JDBC cho người mới bắt đầu](/blogcuatruc.github.io/blog/bai-6-ket-noi-java-voi-mysql/)
+    *   [Kết nối server bằng Fetch API – Cách JavaScript trò chuyện với backend](/blogcuatruc.github.io/blog/bai-9-giao-tiep-mang-voi-javascript/)
+    *   [Lưu dữ liệu trên trình duyệt với Local Storage và Session Storage](/blogcuatruc.github.io/blog/bai-11-luu-du-lieu-tren-local-storage/)
+    *   [Xử lý bất đồng bộ với async/await – Viết code Fetch API gọn gàng hơn](/blogcuatruc.github.io/blog/bai-10-xu-ly-bat-dong-bo/)
+    *   [Xử lý lỗi và gỡ lỗi trong JavaScript – Làm chủ Debugging & Error Handling](/blogcuatruc.github.io/blog/bai-12-xu-ly-loi-va-go-loi/)
+    *   [Hiểu Collection và Stream trong Java chỉ trong 15 phút](/blogcuatruc.github.io/blog/bai-2-collection-stream-trong-java/)
+    *   [Lập trình Socket cơ bản trong Java](/blogcuatruc.github.io/blog/bai-4-java-socket-basic/)
+    *   [Tạo server đa luồng bằng Java – Chat nhiều người như Messenger mini](/blogcuatruc.github.io/blog/bai-5-da-luong/)
+    *   [Xử lý ngoại lệ và Logging trong Java](/blogcuatruc.github.io/blog/bai-3-exception-logging-java/)
+    *   [Tổng quan về ngôn ngữ lập trình Java](/blogcuatruc.github.io/blog/bai-1-tong-quan-ve-java/)
+    
+*   [Profile Cá Nhân](/blogcuatruc.github.io/posts/)
+
+LightDark System
+
+*   Light
+    
+*   Dark
+    
+*   System
+    
+
+  
+
+Blog lập trình
+==============
+
+📚 Tất cả bài viết[](#-t%e1%ba%a5t-c%e1%ba%a3-b%c3%a0i-vi%e1%ba%bft)
+--------------------------------------------------------------------
+
+Dưới đây là các bài mình chia sẻ về Java và JavaScript.
+
+* * *
+
+### [DOM và Event trong JavaScript – Khi trang web biết ‘phản hồi’ người dùng](/blogcuatruc.github.io/blog/bai-8-dom-va-su-kien/)
+
+Hiểu DOM (Document Object Model), cách JavaScript truy cập và thay đổi phần tử HTML, cũng như lắng nghe sự kiện (click, input) để tạo trang web tương tác.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-8-dom-va-su-kien/)
+
+October 22, 2025
+
+### [JavaScript là gì? Cách nó làm cho trang web trở nên sống động](/blogcuatruc.github.io/blog/bai-7-gioi-thieu-javascript/)
+
+Giới thiệu về JavaScript – ngôn ngữ lập trình của web, giúp trang web trở nên tương tác và động hơn. Tìm hiểu biến, kiểu dữ liệu, hàm và cách JS hoạt động trong trình duyệt.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-7-gioi-thieu-javascript/)
+
+October 22, 2025
+
+### [Kết nối Java với MySQL: Hướng dẫn JDBC cho người mới bắt đầu](/blogcuatruc.github.io/blog/bai-6-ket-noi-java-voi-mysql/)
+
+Tìm hiểu cách Java giao tiếp với cơ sở dữ liệu MySQL thông qua JDBC, từ khái niệm, cấu trúc, đến ví dụ thực hành kết nối, truy vấn và lưu dữ liệu người dùng.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-6-ket-noi-java-voi-mysql/)
+
+October 22, 2025
+
+### [Kết nối server bằng Fetch API – Cách JavaScript trò chuyện với backend](/blogcuatruc.github.io/blog/bai-9-giao-tiep-mang-voi-javascript/)
+
+Tìm hiểu cách JavaScript giao tiếp với server qua Fetch API, xử lý dữ liệu JSON và hiển thị nội dung động từ API công khai.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-9-giao-tiep-mang-voi-javascript/)
+
+October 22, 2025
+
+### [Lưu dữ liệu trên trình duyệt với Local Storage và Session Storage](/blogcuatruc.github.io/blog/bai-11-luu-du-lieu-tren-local-storage/)
+
+Tìm hiểu cách lưu trữ dữ liệu trực tiếp trên trình duyệt bằng Local Storage và Session Storage, giúp web hoạt động nhanh hơn và ghi nhớ thông tin người dùng.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-11-luu-du-lieu-tren-local-storage/)
+
+October 22, 2025
+
+### [Xử lý bất đồng bộ với async/await – Viết code Fetch API gọn gàng hơn](/blogcuatruc.github.io/blog/bai-10-xu-ly-bat-dong-bo/)
+
+Tìm hiểu cơ chế bất đồng bộ trong JavaScript và cách dùng async/await để viết code Fetch API dễ hiểu, sạch sẽ và hiệu quả hơn.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-10-xu-ly-bat-dong-bo/)
+
+October 22, 2025
+
+### [Xử lý lỗi và gỡ lỗi trong JavaScript – Làm chủ Debugging & Error Handling](/blogcuatruc.github.io/blog/bai-12-xu-ly-loi-va-go-loi/)
+
+Học cách phát hiện, theo dõi và xử lý lỗi trong JavaScript bằng console, try…catch và công cụ DevTools – kỹ năng quan trọng giúp bạn viết code ổn định và dễ bảo trì.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-12-xu-ly-loi-va-go-loi/)
+
+October 22, 2025
+
+### [Hiểu Collection và Stream trong Java chỉ trong 15 phút](/blogcuatruc.github.io/blog/bai-2-collection-stream-trong-java/)
+
+Giới thiệu các collection phổ biến (List, Set, Map) và cách dùng Stream API để xử lý dữ liệu theo phong cách hàm (filter, map, collect, group).
+
+[Read more →](/blogcuatruc.github.io/blog/bai-2-collection-stream-trong-java/)
+
+October 21, 2025
+
+### [Lập trình Socket cơ bản trong Java](/blogcuatruc.github.io/blog/bai-4-java-socket-basic/)
+
+Tìm hiểu cách giao tiếp giữa hai máy tính thông qua socket trong Java, với ví dụ cụ thể về server và client gửi – nhận dữ liệu.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-4-java-socket-basic/)
+
+October 21, 2025
+
+### [Tạo server đa luồng bằng Java – Chat nhiều người như Messenger mini](/blogcuatruc.github.io/blog/bai-5-da-luong/)
+
+Xây dựng server đa luồng cho phép nhiều client kết nối và trò chuyện cùng lúc – nền tảng của các ứng dụng chat như Messenger hoặc Zalo mini.
+
+[Read more →](/blogcuatruc.github.io/blog/bai-5-da-luong/)
+
+October 21, 2025
+
+[Next 2/2](/blogcuatruc.github.io/blog/page/2/ "Next 2/2")
+
+LightDark System
+
+*   Light
+    
+*   Dark
+    
+*   System
+    
+
+* * *
+
+[Powered by Hextra](https://github.com/imfing/hextra "Hextra GitHub Homepage")
