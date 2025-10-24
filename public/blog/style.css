@@ -1,0 +1,500 @@
+/* Reset và Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0a0a0a;
+    color: #ffffff;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header */
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(10, 10, 10, 0.8);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid #333;
+    z-index: 1000;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.nav-links a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #fff;
+}
+
+.search-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-box input {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    color: #fff;
+    width: 200px;
+}
+
+.search-shortcut {
+    position: absolute;
+    right: 8px;
+    font-size: 0.75rem;
+    color: #666;
+}
+
+.github-link {
+    color: #ccc;
+    transition: color 0.3s;
+}
+
+.github-link:hover {
+    color: #fff;
+}
+
+/* Hero Section */
+.hero {
+    padding: 8rem 2rem 4rem;
+    text-align: center;
+    background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+}
+
+.hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    color: #ccc;
+}
+
+.badge-icon {
+    font-size: 1rem;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+}
+
+.highlight {
+    background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.hero-description {
+    font-size: 1.2rem;
+    color: #ccc;
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-button {
+    background: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.cta-button:hover {
+    background: #2563eb;
+    transform: translateY(-2px);
+}
+
+/* Features Section */
+.features {
+    padding: 4rem 0;
+}
+
+.features .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 3rem;
+}
+
+.feature-card {
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 2rem;
+    transition: transform 0.3s, border-color 0.3s;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    border-color: #3b82f6;
+}
+
+.feature-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.feature-card p {
+    color: #ccc;
+    margin-bottom: 1.5rem;
+}
+
+.feature-image {
+    background: #0a0a0a;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #333;
+}
+
+.code-preview {
+    padding: 1rem;
+}
+
+.code-header {
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.code-title {
+    font-weight: 600;
+    color: #fff;
+}
+
+.code-content h4 {
+    color: #3b82f6;
+    margin-bottom: 0.5rem;
+}
+
+.code-content p {
+    color: #ccc;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.code-content ul {
+    list-style: none;
+    padding-left: 1rem;
+}
+
+.code-content li {
+    color: #ccc;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.code-content li:before {
+    content: "•";
+    color: #3b82f6;
+    margin-right: 0.5rem;
+}
+
+.demo-browser {
+    background: #1a1a1a;
+}
+
+.browser-header {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #333;
+    display: flex;
+    align-items: center;
+}
+
+.browser-dots {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.browser-dots span {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #666;
+}
+
+.browser-dots span:nth-child(1) {
+    background: #ff5f57;
+}
+
+.browser-dots span:nth-child(2) {
+    background: #ffbd2e;
+}
+
+.browser-dots span:nth-child(3) {
+    background: #28ca42;
+}
+
+.browser-content {
+    padding: 1rem;
+}
+
+.browser-content.dark-mode {
+    background: #0a0a0a;
+}
+
+.browser-content h4 {
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.browser-content p {
+    color: #ccc;
+    margin-bottom: 0.5rem;
+}
+
+.browser-content code {
+    background: #333;
+    color: #3b82f6;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+}
+
+.hosting-demo {
+    padding: 1rem;
+}
+
+.deploy-status {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.status-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+.status-dot.success {
+    background: #28ca42;
+}
+
+/* Additional Features */
+.additional-features {
+    padding: 4rem 0;
+    background: #111;
+}
+
+.feature-row {
+    margin-bottom: 3rem;
+}
+
+.feature-text h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+
+.feature-text p {
+    color: #ccc;
+    font-size: 1.1rem;
+    max-width: 800px;
+}
+
+/* Course Content */
+.course-content {
+    padding: 4rem 0;
+}
+
+.course-content h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    color: #fff;
+}
+
+.course-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 3rem;
+}
+
+.course-section {
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 12px;
+    padding: 2rem;
+}
+
+.course-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: #3b82f6;
+    text-align: center;
+}
+
+.lesson-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.lesson-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: #0a0a0a;
+    border: 1px solid #333;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #ccc;
+    transition: all 0.3s;
+}
+
+.lesson-item:hover {
+    background: #1a1a1a;
+    border-color: #3b82f6;
+    color: #fff;
+}
+
+.lesson-number {
+    background: #3b82f6;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.lesson-title {
+    font-weight: 500;
+}
+
+/* Footer */
+.footer {
+    background: #0a0a0a;
+    border-top: 1px solid #333;
+    padding: 2rem 0;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .nav {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .features .container {
+        grid-template-columns: 1fr;
+    }
+
+    .course-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero {
+        padding: 6rem 1rem 3rem;
+    }
+
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    .course-section {
+        padding: 1.5rem;
+    }
+
+    .lesson-item {
+        padding: 0.75rem;
+    }
+}
