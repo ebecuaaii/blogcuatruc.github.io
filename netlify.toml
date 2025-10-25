@@ -1,7 +1,10 @@
 [build]
-  command = "hugo mod tidy && hugo --gc --minify"
+  command = "hugo mod tidy && hugo --gc --minify --themesDir themes"
   publish = "public"
 
+[build.environment]
+  HUGO_VERSION = "0.128.0"
+  HUGO_ENABLEGITINFO = "true"
+
 [context.production.environment]
-  HUGO_VERSION = "0.111.3"
-  GO_VERSION = "1.22.2"
+  GIT_SUBMODULE_STRATEGY = "recursive"

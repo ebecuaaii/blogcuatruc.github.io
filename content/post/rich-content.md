@@ -15,30 +15,4 @@ Hugo ships with several [Embedded Shortcodes](https://gohugo.io/content-manageme
 <!--more-->
 ---
 
-## Instagram Simple Shortcode
 
-<br>
-
----
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube izYiDDt6d8s >}}
-
-<br>
-
----
-
-## X Simple Shortcode
-
-{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
-
-See shortcode [documentation](https://gohugo.io/shortcodes/x/) for more details.
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
