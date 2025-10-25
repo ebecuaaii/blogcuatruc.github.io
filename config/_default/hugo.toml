@@ -5,9 +5,7 @@ baseurl = "https://example.com/" # Include trailing slash
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 # canonifyurls = true
 
-[module]
-[[module.imports]]
-  path = "github.com/chipzoller/hugo-clarity"
+theme = "hugo-clarity"
 disqusShortname = ""
 
 DefaultContentLanguage = "en"
