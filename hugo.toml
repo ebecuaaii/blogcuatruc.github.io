@@ -1,3 +1,4 @@
 baseURL = 'https://ebecuaaii.github.io/blogcuatruc.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My blog'
+theme = 'clarity'
