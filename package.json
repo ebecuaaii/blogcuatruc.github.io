@@ -1,0 +1,21 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "This repository offers an example site for [Hugo](https://gohugo.io/) and also it provides the default content for demos hosted on the [Hugo Themes Showcase](https://themes.gohugo.io/).",
+  "main": "hugo.toml",
+  "scripts": {
+    "build": "hugo --minify",
+    "serve": "hugo server -D",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebecuaaii/blogcuatruc.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebecuaaii/blogcuatruc.github.io/issues"
+  },
+  "homepage": "https://github.com/ebecuaaii/blogcuatruc.github.io#readme"
+}
