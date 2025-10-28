@@ -1,0 +1,10 @@
+{
+    "build": {
+        "env": {
+            "HUGO_VERSION": "0.151.0"
+        }
+    },
+    "buildCommand": "git submodule update --init --recursive && hugo --gc --minify --environment production",
+    "outputDirectory": "public",
+    "installCommand": "echo 'No install needed'"
+}
