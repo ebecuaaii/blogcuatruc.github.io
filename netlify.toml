@@ -1,5 +1,5 @@
 [build]
-  command = "git submodule update --init --recursive && hugo --gc --minify --environment production"
+  command = "rm -rf themes/hugo-clarity && git clone https://github.com/chipzoller/hugo-clarity.git themes/hugo-clarity && hugo --gc --minify --environment production"
   publish = "public"
 
 [context.production.environment]
