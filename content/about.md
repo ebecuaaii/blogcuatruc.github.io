@@ -36,40 +36,16 @@ Blog này không chỉ là nơi lưu trữ cá nhân, mà còn là không gian �
 
 ## 📬 Kết nối với mình
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 2rem; border-radius: 15px; color: white; margin: 2rem 0;">
-  <h3 style="color: white; margin-bottom: 1.5rem; text-align: center;">🤝 Hãy cùng nhau học hỏi và phát triển!</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 1.5rem;">
-    
-    <div style="text-align: center;">
-      <h4 style="color: #ffd700;">📧 Email</h4>
-      <p><a href="mailto:ngoctrucnguyen3012@gmail.com" style="color: white; text-decoration: underline;">ngoctrucnguyen3012@gmail.com</a></p>
-    </div>
-    
-    <div style="text-align: center;">
-      <h4 style="color: #ffd700;">💼 LinkedIn</h4>
-      <p><a href="https://www.linkedin.com/in/nguyen-ho-ngoc-truc-37075133b/" style="color: white; text-decoration: underline;">linkedin.com/in/yourprofile</a></p>
-    </div>
-    
-    <div style="text-align: center;">
-      <h4 style="color: #ffd700;">🐙 GitHub</h4>
-      <p><a href="https://github.com/ebecuaaii" style="color: white; text-decoration: underline;">github.com/yourusername</a></p>
-    </div>
-    
-    <div style="text-align: center;">
-      <h4 style="color: #ffd700;">🌐 Portfolio</h4>
-      <p><a href="https:https://my-portfolio-nine-lac-34.vercel.app/" style="color: white; text-decoration: underline;">https://my-portfolio-nine-lac-34.vercel.app/</a></p>
-    </div>
-    
-  </div>
-  
-  <div style="text-align: center; margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid rgba(255,255,255,0.3);">
-    <p style="font-style: italic;">
-      💡 Có câu hỏi về Java, JavaScript, hoặc muốn thảo luận về công nghệ? 
-      <br>Đừng ngần ngại liên hệ với mình nhé!
-    </p>
-  </div>
-</div>
+### 🤝 Hãy cùng nhau học hỏi và phát triển!
+
+| 📧 **Email** | 💼 **LinkedIn** | 🐙 **GitHub** | 🌐 **Portfolio** |
+|:---:|:---:|:---:|:---:|
+| [ngoctrucnguyen3012@gmail.com](mailto:ngoctrucnguyen3012@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/nguyen-ho-ngoc-truc-37075133b/) | [GitHub](https://github.com/ebecuaaii) | [Portfolio](https://my-portfolio-nine-lac-34.vercel.app/) |
+
+---
+
+> 💡 **Có câu hỏi về Java, JavaScript, hoặc muốn thảo luận về công nghệ?**  
+> Đừng ngần ngại liên hệ với mình nhé! Mình luôn sẵn sàng học hỏi và chia sẻ kinh nghiệm cùng mọi người.
 
 ---
 
@@ -81,3 +57,47 @@ Blog này không chỉ là nơi lưu trữ cá nhân, mà còn là không gian �
 </div>
 
 
+
+---
+
+## 🏆 Chứng chỉ & Thành tích
+
+### 📜 Cisco Networking Academy Certificates
+
+#### 🌐 **Networking Basics** 
+*Certificate of Course Completion - Sep 12, 2025*
+
+![Networking Basics Certificate](/images/certificates/networking-basics.jpg "Cisco Networking Basics Certificate")
+
+**Kỹ năng đạt được:**
+- ✅ Giải thích các khái niệm quan trọng trong giao tiếp mạng, loại mạng, thành phần và kết nối
+- ✅ Hiểu tầm quan trọng của tiêu chuẩn và giao thức trong giao tiếp mạng
+- ✅ Giải thích cách giao tiếp xảy ra trên mạng Ethernet
+- ✅ Hiểu các tính năng của địa chỉ IP và IPv4 trong giao tiếp mạng
+- ✅ Giải thích các tính năng của địa chỉ IPv6
+- ✅ Hiểu cách router kết nối các mạng với nhau
+- ✅ Sử dụng các công cụ khác nhau để kiểm tra và khắc phục sự cố kết nối mạng
+- ✅ Cấu hình router không dây tích hợp và client không dây để kết nối an toàn với internet
+
+---
+
+#### 💻 **JavaScript Essentials 2** 
+*Statement of Achievement - Oct 15, 2025*
+
+![JavaScript Essentials 2 Certificate](/images/certificates/javascript-essentials.jpg "Cisco JavaScript Essentials 2 Certificate")
+
+**Kỹ năng đạt được:**
+- ✅ Kỹ thuật xây dựng và sửa đổi objects, bao gồm sử dụng prototypes và inheritance
+- ✅ Phương pháp định nghĩa và đóng gói class properties và quản lý array data, bao gồm JSON conversion
+- ✅ Sử dụng Math object và regular expressions cho các phép toán và string operations
+- ✅ Kỹ thuật function nâng cao và asynchronous programming, bao gồm callbacks và iterators
+- ✅ Phân tích vấn đề và phát triển chương trình sử dụng tư duy thuật toán và nguyên tắc hướng đối tượng
+
+---
+
+<div style="text-align: center; margin-top: 3rem; padding: 1.5rem; background: #f8f9fa; border-radius: 10px;">
+  <h3 style="color: #0077b8;">🌟 "The best way to learn is to teach others" 🌟</h3>
+  <p style="color: #666; font-style: italic;">
+    Cảm ơn bạn đã ghé thăm blog của mình. Hy vọng chúng ta sẽ cùng nhau trên hành trình coding thú vị này!
+  </p>
+</div>

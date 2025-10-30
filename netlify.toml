@@ -1,5 +1,5 @@
 [build]
-  command = "rm -rf themes/hugo-clarity && git clone https://github.com/chipzoller/hugo-clarity.git themes/hugo-clarity && hugo --gc --minify --environment production"
+  command = "rm -rf themes/hugo-clarity && git clone https://github.com/chipzoller/hugo-clarity.git themes/hugo-clarity && hugo --gc --minify --environment production && cp static/_redirects public/"
   publish = "public"
 
 [context.production.environment]
