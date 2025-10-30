@@ -18,7 +18,7 @@ author = "Truc Nguyen"
 
 ---
 
-## 👋 Xin chào, mình là Trúc!
+## 👋 Xin chào, mình là Ngọc Trúc!
 
 Là một sinh viên ngành **Kỹ thuật phần mềm** đầy đam mê, mình tạo ra blog này với mong muốn chia sẻ hành trình học tập và những kiến thức thực tế về **Java** và **JavaScript** — hai ngôn ngữ lập trình mạnh mẽ và phổ biến trong phát triển phần mềm hiện đại.
 
@@ -27,8 +27,6 @@ Là một sinh viên ngành **Kỹ thuật phần mềm** đầy đam mê, mình
 **Java** giúp mình hiểu sâu về lập trình hướng đối tượng, khả năng mở rộng và tính ổn định của hệ thống. Trong khi đó, **JavaScript** mở ra thế giới của các ứng dụng web tương tác, linh hoạt và thân thiện với người dùng.
 
 Việc ghi lại những gì mình học được — từ kiến thức cơ bản đến các ứng dụng thực tiễn — không chỉ giúp mình củng cố tư duy mà còn hỗ trợ những bạn đang đi trên con đường tương tự.
-
-### 🎯 Sứ mệnh của blog
 
 Blog này không chỉ là nơi lưu trữ cá nhân, mà còn là không gian để **kết nối, học hỏi và phát triển** cùng cộng đồng. Dù bạn là người mới bắt đầu hay đã có kinh nghiệm, mình hy vọng những bài viết tại đây sẽ mang lại sự rõ ràng, ví dụ thực tế và động lực để bạn tiếp tục khám phá.
 
@@ -67,7 +65,7 @@ Blog này không chỉ là nơi lưu trữ cá nhân, mà còn là không gian �
 #### 🌐 **Networking Basics** 
 *Certificate of Course Completion - Sep 12, 2025*
 
-![Networking Basics Certificate](/images/certificates/networking-basics.jpg "Cisco Networking Basics Certificate")
+![Networking Basics Certificate](/images/certificates/networking-basics.png "Cisco Networking Basics Certificate")
 
 **Kỹ năng đạt được:**
 - ✅ Giải thích các khái niệm quan trọng trong giao tiếp mạng, loại mạng, thành phần và kết nối
@@ -84,7 +82,7 @@ Blog này không chỉ là nơi lưu trữ cá nhân, mà còn là không gian �
 #### 💻 **JavaScript Essentials 2** 
 *Statement of Achievement - Oct 15, 2025*
 
-![JavaScript Essentials 2 Certificate](/images/certificates/javascript-essentials.jpg "Cisco JavaScript Essentials 2 Certificate")
+![JavaScript Essentials 2 Certificate](/images/certificates/javascript-essentials.png "Cisco JavaScript Essentials 2 Certificate")
 
 **Kỹ năng đạt được:**
 - ✅ Kỹ thuật xây dựng và sửa đổi objects, bao gồm sử dụng prototypes và inheritance
